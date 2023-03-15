@@ -1,0 +1,106 @@
+{
+    "version": "4.5.5",
+    "flags": {},
+    "shapes": [
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "KZLF",
+            "points": [
+                [
+                    1235.6415367886914,
+                    400.0326205146792
+                ],
+                [
+                    2238.2022471910113,
+                    859.5505617977528
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "KZLF",
+            "points": [
+                [
+                    486.48138957816366,
+                    124.99999999999999
+                ],
+                [
+                    1336.5384615384617,
+                    648.1712158808933
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KZLF",
+            "points": [
+                [
+                    1.8867924528301885,
+                    1364.1509433962262
+                ],
+                [
+                    543.3962264150944,
+                    2333.962264150943
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KZLF",
+            "points": [
+                [
+                    9.433962264150942,
+                    977.3584905660376
+                ],
+                [
+                    864.1509433962264,
+                    1369.811320754717
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KZLF",
+            "points": [
+                [
+                    398.1132075471698,
+                    650.9433962264151
+                ],
+                [
+                    1090.566037735849,
+                    983.0188679245283
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "0927 (740).JPG",
+    "imageData": null,
+    "imageHeight": 3000,
+    "imageWidth": 4000,
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "version": "3.16.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "KC",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1274.923076923077,
+                    1127.948717948718
+                ],
+                [
+                    1392.871794871795,
+                    1197.179487179487
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "9203 (46).JPG",
+    "imageData": null,
+    "imageHeight": 2250,
+    "imageWidth": 4000
+}

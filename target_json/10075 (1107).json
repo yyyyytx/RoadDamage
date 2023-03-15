@@ -1,0 +1,92 @@
+{
+    "version": "4.5.5",
+    "flags": {},
+    "shapes": [
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "GFXB",
+            "points": [
+                [
+                    699.1290322580646,
+                    1919.3870967741937
+                ],
+                [
+                    3828.1612903225805,
+                    2983.9032258064517
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "GFXB",
+            "points": [
+                [
+                    2026.388888888889,
+                    329.1666666666667
+                ],
+                [
+                    3994.444444444445,
+                    409.72222222222223
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "GFXB",
+            "points": [
+                [
+                    3151.388888888889,
+                    81.94444444444444
+                ],
+                [
+                    3691.666666666667,
+                    263.8888888888889
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GFXB",
+            "points": [
+                [
+                    2977.114427860696,
+                    158.70646766169153
+                ],
+                [
+                    3189.55223880597,
+                    191.5422885572139
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "10075 (1107).JPG",
+    "imageData": null,
+    "imageHeight": 3000,
+    "imageWidth": 4000,
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ]
+}

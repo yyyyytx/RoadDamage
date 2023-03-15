@@ -1,0 +1,92 @@
+{
+    "version": "4.5.5",
+    "flags": {},
+    "shapes": [
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "ZXLF",
+            "points": [
+                [
+                    559.5384615384615,
+                    989.4871794871794
+                ],
+                [
+                    1323.6410256410256,
+                    2240.7692307692305
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "ZXLF",
+            "points": [
+                [
+                    -1.5867620751341764,
+                    347.9248658318425
+                ],
+                [
+                    66.27906976744187,
+                    910.4651162790698
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "GFXB",
+            "points": [
+                [
+                    456.97435897435895,
+                    17.692307692307693
+                ],
+                [
+                    644.1538461538461,
+                    112.56410256410257
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HXLF",
+            "points": [
+                [
+                    43.02325581395349,
+                    895.3488372093024
+                ],
+                [
+                    679.0697674418604,
+                    1056.9767441860465
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "9201 (313).JPG",
+    "imageData": null,
+    "imageHeight": 2250,
+    "imageWidth": 4000,
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "version": "3.16.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "KZXB",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    0.0,
+                    653.75
+                ],
+                [
+                    1461.875,
+                    1388.0
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GFXB",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    2511.6129032258063,
+                    606.483870967742
+                ],
+                [
+                    3624.5161290322585,
+                    700.0322580645161
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "0927 (1063).JPG",
+    "imageData": null,
+    "imageHeight": 3000,
+    "imageWidth": 4000
+}

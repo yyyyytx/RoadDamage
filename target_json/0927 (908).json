@@ -1,0 +1,180 @@
+{
+    "version": "4.5.5",
+    "flags": {},
+    "shapes": [
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "ZXLF",
+            "points": [
+                [
+                    2342.1290322580644,
+                    158.96774193548387
+                ],
+                [
+                    2650.0,
+                    519.6969696969696
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "ZXLF",
+            "points": [
+                [
+                    2703.4193548387098,
+                    507.35483870967744
+                ],
+                [
+                    3155.032258064516,
+                    929.9354838709678
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "ZXLF",
+            "points": [
+                [
+                    3077.6129032258063,
+                    946.0645161290323
+                ],
+                [
+                    3500.1935483870966,
+                    1420.258064516129
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "ZXLF",
+            "points": [
+                [
+                    3480.8387096774195,
+                    1433.1612903225807
+                ],
+                [
+                    3980.8387096774195,
+                    1939.6129032258066
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "ZXLF",
+            "points": [
+                [
+                    1632.4516129032259,
+                    736.3870967741935
+                ],
+                [
+                    1890.516129032258,
+                    1362.1935483870968
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "ZXLF",
+            "points": [
+                [
+                    932.7617866004962,
+                    1346.1538461538462
+                ],
+                [
+                    1663.4615384615383,
+                    1781.6724565756824
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "HXLF",
+            "points": [
+                [
+                    896.6666666666667,
+                    987.0
+                ],
+                [
+                    1476.666666666667,
+                    1127.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HXLF",
+            "points": [
+                [
+                    7.692307692307692,
+                    1696.1538461538462
+                ],
+                [
+                    1019.2307692307692,
+                    2061.5384615384614
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HXLF",
+            "points": [
+                [
+                    1311.042944785276,
+                    839.2638036809815
+                ],
+                [
+                    1617.7914110429447,
+                    912.883435582822
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "0927 (908).JPG",
+    "imageData": null,
+    "imageHeight": 3000,
+    "imageWidth": 4000,
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "version": "3.16.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "ZXLF",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    3289.516129032258,
+                    1451.6129032258063
+                ],
+                [
+                    3983.6363636363635,
+                    2472.7272727272725
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ZXLF",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    2857.2580645161293,
+                    831.4516129032259
+                ],
+                [
+                    3000.0,
+                    1027.4193548387098
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ZXLF",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    2344.3548387096776,
+                    128.2258064516129
+                ],
+                [
+                    2696.7741935483873,
+                    605.6451612903226
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ZXLF",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    2245.967741935484,
+                    3.2258064516129035
+                ],
+                [
+                    2316.1290322580644,
+                    91.93548387096774
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "0927 (432).JPG",
+    "imageData": null,
+    "imageHeight": 3000,
+    "imageWidth": 4000
+}

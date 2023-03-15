@@ -1,0 +1,39 @@
+{
+    "version": "3.16.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "GFXB",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1545.5263157894738,
+                    1619.0526315789473
+                ],
+                [
+                    2003.4210526315787,
+                    3971.684210526316
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "9205 (544).JPG",
+    "imageData": null,
+    "imageHeight": 4000,
+    "imageWidth": 3000
+}

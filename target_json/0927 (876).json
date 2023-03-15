@@ -1,0 +1,39 @@
+{
+    "version": "3.16.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "KZXB",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1999.375,
+                    97.5
+                ],
+                [
+                    2155.3956834532373,
+                    130.2158273381295
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "0927 (876).JPG",
+    "imageData": null,
+    "imageHeight": 3000,
+    "imageWidth": 4000
+}

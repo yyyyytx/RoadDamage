@@ -1,0 +1,244 @@
+{
+    "version": "4.5.5",
+    "flags": {},
+    "shapes": [
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "ZXLF",
+            "points": [
+                [
+                    2602.5,
+                    1110.0
+                ],
+                [
+                    3337.5,
+                    2862.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "ZXLF",
+            "points": [
+                [
+                    2373.228346456693,
+                    587.4015748031496
+                ],
+                [
+                    2644.5945945945946,
+                    1097.2972972972973
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "GFXB",
+            "points": [
+                [
+                    1237.3737373737374,
+                    459.84251968503935
+                ],
+                [
+                    3856.6929133858266,
+                    580.8080808080808
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "GFXB",
+            "points": [
+                [
+                    1573.5849056603772,
+                    110.37735849056604
+                ],
+                [
+                    2192.452830188679,
+                    184.9056603773585
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "GFXB",
+            "points": [
+                [
+                    2198.1132075471696,
+                    109.60854092526691
+                ],
+                [
+                    3497.153024911032,
+                    126.41509433962264
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "GFXB",
+            "points": [
+                [
+                    3506.5,
+                    135.0
+                ],
+                [
+                    3995.0,
+                    365.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "GFXB",
+            "points": [
+                [
+                    3502.0,
+                    83.5
+                ],
+                [
+                    3996.5,
+                    128.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ZXLF",
+            "points": [
+                [
+                    77.64516129032256,
+                    1716.1612903225807
+                ],
+                [
+                    1048.6129032258063,
+                    2958.0967741935483
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HXLF",
+            "points": [
+                [
+                    228.07017543859646,
+                    1398.2456140350876
+                ],
+                [
+                    1677.1929824561403,
+                    1524.5614035087717
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ZXLF",
+            "points": [
+                [
+                    363.09523809523813,
+                    998.8095238095239
+                ],
+                [
+                    741.6666666666667,
+                    1371.4285714285716
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HXLF",
+            "points": [
+                [
+                    755.952380952381,
+                    860.7142857142858
+                ],
+                [
+                    1314.2857142857142,
+                    1008.3333333333334
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HXLF",
+            "points": [
+                [
+                    1385.7142857142858,
+                    833.3333333333334
+                ],
+                [
+                    2022.6190476190477,
+                    900.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HXLF",
+            "points": [
+                [
+                    2009.5238095238096,
+                    860.7142857142858
+                ],
+                [
+                    2547.6190476190477,
+                    994.047619047619
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "10075 (93).JPG",
+    "imageData": null,
+    "imageHeight": 3000,
+    "imageWidth": 4000,
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ]
+}

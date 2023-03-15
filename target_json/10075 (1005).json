@@ -1,0 +1,118 @@
+{
+    "version": "4.5.5",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "GFXB",
+            "points": [
+                [
+                    3.149606299212598,
+                    349.6062992125984
+                ],
+                [
+                    380.31496062992125,
+                    377.1653543307087
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GFXB",
+            "points": [
+                [
+                    371.6049382716049,
+                    328.39506172839504
+                ],
+                [
+                    883.9506172839506,
+                    388.88888888888886
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GFXB",
+            "points": [
+                [
+                    12.403100775193797,
+                    400.0
+                ],
+                [
+                    320.93023255813955,
+                    507.7519379844961
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GFXB",
+            "points": [
+                [
+                    877.659574468085,
+                    313.82978723404256
+                ],
+                [
+                    1551.063829787234,
+                    367.02127659574467
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GFXB",
+            "points": [
+                [
+                    1547.0588235294117,
+                    292.6470588235294
+                ],
+                [
+                    2131.6176470588234,
+                    338.9705882352941
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GFXB",
+            "points": [
+                [
+                    2125.766871165644,
+                    245.39877300613495
+                ],
+                [
+                    2645.398773006135,
+                    309.20245398773005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "10075 (1005).JPG",
+    "imageData": null,
+    "imageHeight": 3000,
+    "imageWidth": 4000,
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ]
+}

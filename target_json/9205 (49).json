@@ -1,0 +1,107 @@
+{
+    "version": "3.16.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "GFXB",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    4.324324324324326,
+                    123.10810810810813
+                ],
+                [
+                    734.0540540540541,
+                    217.7027027027027
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GFXB",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    761.081081081081,
+                    122.6027397260274
+                ],
+                [
+                    1301.3698630136987,
+                    217.7027027027027
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GFXB",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1307.027027027027,
+                    117.70270270270271
+                ],
+                [
+                    2042.162162162162,
+                    196.0810810810811
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GFXB",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    2041.8659755646058,
+                    124.12624953720845
+                ],
+                [
+                    2880.821917808219,
+                    226.7123287671233
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KZXB",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    2755.675675675676,
+                    596.081081081081
+                ],
+                [
+                    3088.1081081081084,
+                    728.5135135135135
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "9205 (49).JPG",
+    "imageData": null,
+    "imageHeight": 2250,
+    "imageWidth": 4000
+}

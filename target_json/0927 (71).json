@@ -1,0 +1,190 @@
+{
+    "version": "4.5.5",
+    "flags": {},
+    "shapes": [
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "KC",
+            "points": [
+                [
+                    2545.2601969057664,
+                    819.7187060478199
+                ],
+                [
+                    2920.253164556962,
+                    1049.367088607595
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "KZLF",
+            "points": [
+                [
+                    2147.986111111111,
+                    1468.9583333333333
+                ],
+                [
+                    3999.0,
+                    2962.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "KZLF",
+            "points": [
+                [
+                    2957.777777777778,
+                    673.3333333333334
+                ],
+                [
+                    3786.6666666666665,
+                    1457.7777777777778
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "KZLF",
+            "points": [
+                [
+                    10.416666666666668,
+                    1560.5263157894738
+                ],
+                [
+                    2179.0526315789475,
+                    2987.5
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KZLF",
+            "points": [
+                [
+                    9.375,
+                    659.375
+                ],
+                [
+                    2540.625,
+                    1571.875
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KZLF",
+            "points": [
+                [
+                    2515.873015873016,
+                    1039.6825396825398
+                ],
+                [
+                    2982.5396825396824,
+                    1493.6507936507937
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KZLF",
+            "points": [
+                [
+                    100.0,
+                    290.19607843137254
+                ],
+                [
+                    1331.3725490196077,
+                    680.3921568627451
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KZLF",
+            "points": [
+                [
+                    1064.7058823529412,
+                    25.49019607843137
+                ],
+                [
+                    1903.921568627451,
+                    307.84313725490193
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KZLF",
+            "points": [
+                [
+                    2268.8524590163934,
+                    40.98360655737705
+                ],
+                [
+                    2813.1147540983607,
+                    349.1803278688525
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "KZLF",
+            "points": [
+                [
+                    2493.44262295082,
+                    347.5409836065574
+                ],
+                [
+                    3139.344262295082,
+                    680.327868852459
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "0927 (71).JPG",
+    "imageData": null,
+    "imageHeight": 3000,
+    "imageWidth": 4000,
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ]
+}

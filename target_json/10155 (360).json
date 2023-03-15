@@ -1,0 +1,162 @@
+{
+    "version": "4.5.5",
+    "flags": {},
+    "shapes": [
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "HXLF",
+            "points": [
+                [
+                    891.0112359550561,
+                    1398.876404494382
+                ],
+                [
+                    1477.5280898876404,
+                    1531.4606741573034
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "GFXB",
+            "points": [
+                [
+                    2187.837837837838,
+                    47.2972972972973
+                ],
+                [
+                    2516.2162162162163,
+                    508.1081081081081
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "GFXB",
+            "points": [
+                [
+                    1598.6486486486488,
+                    344.5945945945946
+                ],
+                [
+                    2244.5945945945946,
+                    398.64864864864865
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "GFXB",
+            "points": [
+                [
+                    1627.027027027027,
+                    228.3783783783784
+                ],
+                [
+                    1793.2432432432433,
+                    341.8918918918919
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "GFXB",
+            "points": [
+                [
+                    3001.26582278481,
+                    211.39240506329114
+                ],
+                [
+                    3558.1081081081084,
+                    332.43243243243245
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "GFXB",
+            "points": [
+                [
+                    2505.7377049180327,
+                    96.72131147540983
+                ],
+                [
+                    3157.377049180328,
+                    136.0655737704918
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HXLF",
+            "points": [
+                [
+                    275.0,
+                    677.9411764705882
+                ],
+                [
+                    886.7647058823529,
+                    796.3235294117646
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ZXLF",
+            "points": [
+                [
+                    13.953488372093023,
+                    1182.5581395348838
+                ],
+                [
+                    513.953488372093,
+                    1562.7906976744187
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "10155 (360).JPG",
+    "imageData": null,
+    "imageHeight": 3000,
+    "imageWidth": 4000,
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ]
+}

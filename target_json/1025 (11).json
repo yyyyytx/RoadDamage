@@ -1,0 +1,107 @@
+{
+    "version": "3.16.2",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "ZXLF",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    969.3548387096774,
+                    448.93617021276594
+                ],
+                [
+                    1465.9574468085104,
+                    2241.935483870968
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HXLF",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    3.676470588235294,
+                    360.2941176470588
+                ],
+                [
+                    684.5588235294117,
+                    408.0882352941176
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HXLF",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    693.5483870967741,
+                    367.741935483871
+                ],
+                [
+                    1640.8602150537633,
+                    440.8602150537634
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HXLF",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1639.1891891891892,
+                    362.3931623931624
+                ],
+                [
+                    3167.094017094017,
+                    424.3243243243243
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ZXLF",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1575.5656108597286,
+                    3.167420814479638
+                ],
+                [
+                    1680.9954751131222,
+                    184.16289592760182
+                ]
+            ],
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "1025 (11).jpg",
+    "imageData": null,
+    "imageHeight": 2250,
+    "imageWidth": 4000
+}

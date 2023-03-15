@@ -1,0 +1,166 @@
+{
+    "version": "4.5.5",
+    "flags": {},
+    "shapes": [
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "ZXLF",
+            "points": [
+                [
+                    1720.618556701031,
+                    40.20618556701031
+                ],
+                [
+                    2039.6774193548385,
+                    434.2857142857142
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "ZXLF",
+            "points": [
+                [
+                    1270.142857142857,
+                    407.35294117647055
+                ],
+                [
+                    1733.8235294117646,
+                    1025.7142857142856
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "HXLF",
+            "points": [
+                [
+                    1766.2580645161293,
+                    895.9525616698293
+                ],
+                [
+                    3951.4705882352937,
+                    1054.4117647058822
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "HXLF",
+            "points": [
+                [
+                    4.161290322580612,
+                    527.9411764705882
+                ],
+                [
+                    1292.6470588235293,
+                    615.8292220113852
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "HXLF",
+            "points": [
+                [
+                    2035.8571428571427,
+                    219.99999999999997
+                ],
+                [
+                    2935.8571428571427,
+                    291.4285714285714
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "ZXLF",
+            "points": [
+                [
+                    1041.5714285714284,
+                    1017.142857142857
+                ],
+                [
+                    1327.2857142857142,
+                    1654.2857142857142
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "ZXLF",
+            "points": [
+                [
+                    655.7741935483871,
+                    1639.9999999999998
+                ],
+                [
+                    1055.8571428571427,
+                    2390.3548387096776
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "line_color": null,
+            "fill_color": null,
+            "label": "ZXLF",
+            "points": [
+                [
+                    -1.1382488479262065,
+                    2390.3548387096776
+                ],
+                [
+                    655.7741935483871,
+                    3002.410138248848
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "0927 (268).JPG",
+    "imageData": null,
+    "imageHeight": 3000,
+    "imageWidth": 4000,
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ]
+}
